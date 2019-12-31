@@ -1,0 +1,258 @@
+*{
+    margin:0%;
+    font-family: 'Montserrat',sans-serif;
+
+}
+::selection{
+    background-color: #c70000e0;
+    color: white;
+}
+header{
+    background-image: url("./image/service.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height:700px;
+    color: white;
+}
+.container1{
+    background-color: #01162794;
+    height:700px;
+}
+.section1{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+    padding-top: 20px;
+}
+
+.logo{
+    display: inline-block;
+}
+.nature{
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+nav{
+   
+    margin-left: 40%;
+    font-size: 13px;
+    display: inline-block;
+    
+}
+nav li{
+ list-style: none;
+ margin-left: 00px;
+ display: inline-block;
+
+}
+li a{
+    text-decoration: none;
+    padding: 0px 6px;
+    color: white;
+}
+nav button{
+    color: white;
+    background-color: #da1212c7;
+    border-radius: 65px;
+    padding: 5px 10px;
+    font-size: 15px;
+    margin-top: 10px;
+    border-color: #da1212c7;
+}
+.sierra{
+    text-align: center;
+    margin-top: 10px;
+}
+.welcome{
+    margin-top: 250px;
+}
+.welcome h1{
+    font-size: 65px;
+    padding: 0px 0px;
+    margin: 10px 0px;
+}
+
+.we-make{
+    margin: 80px 0px 100px 0px;
+}
+.nature-smile{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.lead h6{
+    font-size: 15px; 
+    
+    color: #808080b8;
+}
+.lead h3{
+    font-size: 40px;
+    padding: 20px 0px 30px 0px;
+}
+.lead p{
+    font-size: 17px;
+    
+    line-height: 27px;
+}
+.man-jump{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.servi-full{
+    background-color: #80808024;
+}
+.service{
+    padding: 120px 0px 170px 0px;;
+}
+.go{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.along{
+text-align: center;
+}
+.along h6{
+    font-size: 17px;
+    color: #8080809e;
+}
+.along h2{
+    font-size: 40px;
+}
+.second-spring{
+    padding-top: 30px;
+}
+.autumn{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+hr{
+      margin: 50px 0px 15px 0px;
+}
+.spring h3{
+    font-size: 20px;
+    padding:20px 0px;
+}
+.spring p{
+    font-size: 17px;
+}
+.study-nature h3{
+    font-size: 20px;
+    padding: 20px 0px;
+}
+.study-nature p{
+    font-size: 17px;
+}
+.autumm{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.look-deep h3{
+    font-size: 20px;
+    padding: 20px 0px ;
+}
+.look-deep p{
+    font-size: 17px;
+}
+.rain h3{
+    font-size: 20px;
+    padding: 20px 0px;
+}
+.rain p{
+    font-size: 17px;
+}
+.click{
+    background-color: #c1c1c11a;
+}
+.last-bar{
+    padding: 80px 0px 70px 0px;
+}
+.click-edit{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.click-edit p{
+    font-size: 32px;
+    display: inline-block;
+    color: black;
+  
+}
+ button{
+    background-color: #da1212c7;
+    border-radius: 65px;
+    padding: 5px 20px;
+    font-size: 20px;
+    border-color: #da1212c7;
+    color: white;
+}
+.footer{
+    background-image: url("./image/foot.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height:590px;
+    color: white;
+}
+.container3{
+    background-color: #011627ad;
+    height: 590px;
+}
+.last-about{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+.one-two{
+    list-style-type:none ;
+margin-left: 0px;
+padding-left: 0px;
+}
+#minus{
+    padding-right: 15px;
+}
+.abt{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.red{
+    font-size: 18px;
+    font-style: italic;
+    color: red;
+    line-height: 26px;
+}
+.white{
+    font-size: 15px;
+    line-height: 26px;
+    color: grey;
+}
+.one-two li{
+    margin-bottom: 15px;
+    
+
+}
+.one-two li a{
+    color: grey;
+    font-size: 17px;
+    padding: 0px;
+}
+.proin ,.third-third{
+    font-size: 17px;
+    line-height:26px; 
+    color: grey;
+}
+.hrr{
+    margin-top: 150px;
+}
+.rights{
+    width: 85%;
+    margin: 50px auto  ;
+}
+.copy{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

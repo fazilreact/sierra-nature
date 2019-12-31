@@ -1,0 +1,193 @@
+*{
+    margin: 0px;
+} 
+::selection{
+    background-color: #c70000e0;
+    color: white;
+}
+.container{
+    margin: 20px 0px;
+}
+.section1{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+    padding-top: 20px;
+}
+
+.logo{
+    display: inline-block;
+}
+.nature{
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+nav{
+    margin-left: 30%;
+    font-size: 13px;
+    display: inline-block; 
+}
+nav li{
+ list-style: none;
+ margin-left: 00px;
+ display: inline-block;
+}
+li a{
+    text-decoration: none;
+    padding: 0px 10px;
+    color: black;
+}
+nav button{
+    color: white;
+    background-color: #da1212c7;
+    border-radius: 65px;
+    padding: 5px 10px;
+    font-size: 15px;
+    margin-top: 10px;
+    border-color: #da1212c7;
+}
+
+.container{
+    margin: 0px;
+    background-color: #8080802b;
+    padding-bottom: 80px;
+    padding-top: 70px;
+}
+.nature-tree{
+    background-color: white;
+    margin: auto;
+    width: 76%;
+    padding-top: 50px;
+}
+.container{
+    margin: 0px;
+    background-color: #8080802b;
+    padding-bottom: 80px;
+    padding-top: 70px;
+}
+.nature-tree{
+    background-color: white;
+    margin: auto;
+    width: 76%;
+    padding-top: 50px;
+}
+
+.tree img{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80%;
+    padding: 10px 103px;
+}
+.winter-birding{
+    
+    width: 100%
+}
+.winter-birding h3{
+    padding: 0px 0px 10px 103px;
+    font-size: 32px;
+}
+.winter-birding p{
+    font-size: 17px;
+   padding: 0px 0px 10px 103px;
+   display: inline-block;
+   color: red;
+}
+  .lis a{
+   text-decoration: none;
+    color: red;
+    list-style-type: none;
+}
+.lis{
+    list-style: none;
+}
+.nullam-imperdiet{
+    padding-top: 20px;
+   
+    margin: auto;
+}
+.nullam{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    padding: 10px 103px;
+}
+
+.two{
+    width: 100%;
+}
+.two p{
+    font-size: 17px;
+    padding-bottom: 15px;
+}
+.lis a{
+    text-decoration: none;
+     color: red;
+     list-style-type: none;
+ }
+.footer{
+    background-image: url("./image/foot.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height:590px;
+    color: white;
+}
+.container3{
+    background-color: #011627ad;
+    height: 590px;
+}
+.last-about{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+.one-two{
+    list-style-type:none ;
+margin-left: 0px;
+padding-left: 0px;
+}
+#minus{
+    padding-right: 15px;
+}
+.abt{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.red{
+    font-size: 18px;
+    font-style: italic;
+    color: red;
+    line-height: 26px;
+}
+.white{
+    font-size: 15px;
+    line-height: 26px;
+    color: grey;
+}
+.one-two li{
+    margin-bottom: 15px;
+    
+
+}
+.one-two li a{
+    color: grey;
+    font-size: 17px;
+}
+.proin ,.third-third{
+    font-size: 17px;
+    line-height:26px; 
+    color: grey;
+}
+.hrr{
+    margin-top: 150px;
+}
+.rights{
+    width: 85%;
+    margin: 50px auto  ;
+}
+.copy{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

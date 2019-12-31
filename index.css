@@ -1,0 +1,316 @@
+*{
+    margin:0%;
+    font-family: 'Montserrat',sans-serif;
+    
+}
+::selection{
+    background-color: #c70000e0;
+    color: white;
+}
+header{
+    background-image: url("./image/main.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height:850px;
+    color: white;
+    background-position-y: -76px;
+    margin-top: 0px;
+}
+.container1{
+    background-color: #011627ad;
+    height:850px;
+}
+.section1{
+   display: flex;
+   flex-wrap: wrap;
+   width: 99%;
+   justify-content: space-around;
+    padding-top: 20px;
+}
+
+.logo{
+    display: inline-block;
+}
+.nature{
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+nav{
+   
+    margin-left: 40%;
+    font-size: 13px;
+    display: inline-block;
+    
+}
+nav li{
+ list-style: none;
+ margin-left: 00px;
+ display: inline-block;
+
+}
+li a{
+    text-decoration: none;
+    padding: 0px 6px;
+    color: white;
+}
+nav button{
+    color: white;
+    background-color: #da1212c7;
+    border-radius: 65px;
+    padding: 5px 10px;
+    font-size: 15px;
+    margin-top: 10px;
+    border-color: #da1212c7;
+}
+.sierra{
+    text-align: center;
+}
+.welcome{
+    margin-top: 270px;
+}
+.welcome p{
+    font-size: 18px;
+    padding-bottom: 19px;}
+.welcome h1{
+    font-size: 65px;
+    padding: 0px 0px;
+    margin: 10px 0px;
+}
+ .welcome button {
+    color: white;
+    background-color:#da1212c7;
+    border-radius: 65px;
+    padding: 5px 20px;
+    font-size: 20px;
+    margin-top: 10px;
+    border-color:#da1212c7;
+}
+.down-arrow{
+    font-size: 50px;
+margin-top: 220px;
+}
+.about-us{
+    width: 1200px;
+    margin:auto;
+}
+.about{
+    padding-top: 120px;
+    text-align: center;
+    margin-bottom: 180px;
+}
+.about p{
+    font-size: 17px;
+    padding: 5px 0px;
+}
+.about h3{
+    font-size: 35px;
+}
+.about button{
+    background-color: #da1212c7;
+    border-radius: 65px;
+    padding: 5px 20px;
+    font-size: 20px;
+    border-color: #da1212c7;
+    margin-top: 10px;
+    color: white;
+}
+.hhh ,.one-touch{
+    margin-top: 7px;
+}
+.hhh ,.whole{
+    margin-bottom: 15px;
+}
+.par{
+    color: #00000094;
+}
+.one-par{
+    color: #00000094;
+    margin: 30px;
+}
+.two-par{
+    color: #00000094;
+    margin: 35px;
+
+}
+.services{
+    background-image: url("./image/mid.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height:750px;
+    color: white;
+}
+.ser-bc{
+    background-color:  #011627ad;
+    height:750px;
+}
+.servi{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.servi-one{
+display: inline-block;
+font-size: 26px;
+margin-top: 100px;
+width: 600px;
+
+}
+.servi-two{
+display: inline-block;
+color: white;
+font-size: 29px;
+margin: 270px 0px 0px 130px;
+}
+
+.servi-one h4{
+font-size: 25px;
+padding-top: 15px;
+}
+.servi-one p{
+color:#ffffff94;
+font-size: 17px;
+margin: 5px 0px 10px 0px;
+}
+.servi-one h5{
+    font-size: 18px;
+    padding-top: 15px;
+    margin: 20px 0px 10px 0px;
+}
+#hrr{
+    margin-top: 25px;
+}
+.image{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.container h4{
+    text-align: center;
+    font-size: 17px;
+    margin-top: 100px;
+    padding-bottom: 20px;
+}
+.container h2{
+   text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+.forest{
+    width: 30%;
+    margin: auto;
+
+}
+.forest img{
+    width: 100%;
+}
+.forest h2{
+    text-align: left;
+    font-size: 22px;
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+.forest p{
+    line-height: 25px;
+    font-size: 17px;
+    font-weight: 300;
+    color: grey;
+}
+
+.forest,.container{
+    color: black;
+}
+.click{
+    background-color: #c1c1c11a;
+}
+.last-bar{
+    padding: 80px 0px 70px 0px;
+}
+.click-edit{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.click-edit p{
+    font-size: 32px;
+    display: inline-block;
+    color: black;
+  
+}
+ button{
+    background-color: #da1212c7;
+    border-radius: 65px;
+    padding: 5px 20px;
+    font-size: 20px;
+    border-color: #da1212c7;
+    color: white;
+}
+.footer{
+    background-image: url("./image/foot.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height:590px;
+    color: white;
+}
+.container3{
+    background-color: #011627ad;
+    height: 590px;
+}
+.last-about{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+.one-two{
+    list-style-type:none ;
+margin-left: 0px;
+padding-left: 0px;
+}
+#minus{
+    padding-right: 15px;
+}
+.abt{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.red{
+    font-size: 19px;
+    font-style: italic;
+    color: red;
+    line-height: 26px;
+}
+.white{
+    font-size: 17px;
+    line-height: 26px;
+    color: grey;
+}
+.one-two li{
+    margin-bottom: 15px;
+    
+
+}
+.one-two li a{
+    color: grey;
+    font-size: 17px;
+    padding: 0px;
+}
+.proin ,.third-third{
+    font-size: 17px;
+    line-height:26px; 
+    color: grey;
+}
+.hrr{
+    margin-top: 150px;
+}
+.rights{
+    width: 85%;
+    margin: 50px auto  ;
+}
+.copy{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

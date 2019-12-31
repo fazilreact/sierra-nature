@@ -1,0 +1,284 @@
+*{
+    margin:0%;
+    font-family: 'Montserrat',sans-serif;
+}
+::selection{
+    background-color: #c70000e0;
+    color: white;
+}
+header{
+    background-image: url("./image/about.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height:700px;
+    color: white;
+}
+.container1{
+    background-color: #01162794;
+    height:700px;
+}
+.section1{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+    padding-top: 20px;
+
+}
+
+.logo{
+    display: inline-block;
+}
+.nature{
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+nav{
+   
+    margin-left: 40%;
+    font-size: 13px;
+    display: inline-block;
+    
+}
+nav li{
+ list-style: none;
+ margin-left: 00px;
+ display: inline-block;
+
+}
+li a{
+    text-decoration: none;
+    padding: 0px 6px;
+    color: white;
+      }
+nav button{
+    color: white;
+    background-color: #da1212c7;
+    border-radius: 65px;
+    padding: 5px 10px;
+    font-size: 15px;
+    margin-top: 10px;
+    border-color: #da1212c7;
+}
+.sierra{
+    text-align: center;
+    margin-top: 10px;
+}
+.welcome{
+    margin-top: 250px;
+}
+
+.welcome h1{
+    font-size: 65px;
+    padding: 0px 0px;
+    margin: 10px 0px;
+}
+.nature-love{
+    margin: 75px 0px 60px 0px;
+}
+.nature{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   
+}
+.love{
+    margin-left: 25px;
+}
+.love h6{
+    font-size: 15px;
+    margin: 50px 0px 20px 0px;
+    color: #808080a6;
+}
+.love h2{
+    font-size: 33px;
+    }
+    .since{
+        margin-right: 25 px;
+    }
+.since h4{
+    font-size: 23px;
+    margin: 50px 0px 10px 0px;
+}
+.pron{
+    font-size: 17px;
+    margin: 20px 0px 20px 0px;
+    color: #808080c7;
+}
+.sed{
+    font-size: 16px;
+    margin: 0px 0px 75px 0px;
+    color:#808080c7;
+}
+.some-cool{
+    background-color: #80808026;
+    margin: 0px 0px 0px 0px;
+    padding: 20px 0px 1px 0px;
+}
+.number{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 60px 0px 35px 0px;
+}
+.some h6{
+    font-size: 15px;
+    margin: 15px 0px 20px 0px;
+    color: #808080ba;
+}
+.some h2{
+    font-size: 40px;
+}
+.client p{
+    font-size: 22px;
+}
+.client h5{
+    font-size: 80px;
+    color: #d40505c2;
+    text-align: center;
+}
+.experience p{
+    font-size: 22px;
+}
+.experience h5{
+    font-size: 80px;
+    color: #d40505c2;
+    text-align: center;
+}
+ .project p{
+    font-size: 22px;
+ }
+ .project h5{
+    font-size: 80px;
+    color: #d40505c2;
+    text-align: center;
+}
+hr{
+    margin: 0px 60px 0px 60px;
+}
+.click{
+    font-size: 31px;
+    padding: 60px 0px 75px 60px;
+}
+.lona{
+       margin: 10px 0px 150px 0px;
+       
+}
+.love-nature{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.we-love h5{
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+.we-love p{
+    font-size: 17px;
+    line-height: 27px;
+    color: #808080e6;
+}
+.gift h5{
+    font-size: 18px;
+    padding-bottom: 15px;
+} 
+.gift p{
+    font-size: 17px;
+    line-height: 27px;
+    color: #808080e6;
+}
+.excepteur h4{
+    color: #d40505c2;
+    font-size: 25px; 
+    margin-top: 60px;
+} 
+.click{
+    background-color: #c1c1c11a;
+}
+
+.click-edit{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.click-edit p{
+    font-size: 32px;
+    display: inline-block;
+    color: black;
+  
+}
+ button{
+    background-color: #da1212c7;
+    border-radius: 65px;
+    padding: 5px 20px;
+    font-size: 20px;
+    border-color: #da1212c7;
+    color: white;
+}
+
+.footer{
+    background-image: url("./image/foot.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height:590px;
+    color: white;
+}
+.container3{
+    background-color: #011627ad;
+    height: 590px;
+}
+.last-about{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+.one-two{
+    list-style-type:none ;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+#minus{
+    padding-right: 15px;
+}
+.abt{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.red{
+    font-size: 19px;
+    font-style: italic;
+    color: red;
+    line-height: 26px;
+}
+.white{
+    font-size: 17px;
+    line-height: 26px;
+    color: grey;
+}
+.one-two li{
+    margin-bottom: 15px;
+    
+
+}
+.one-two li a{
+    color: grey;
+    font-size: 17px;
+    padding: 0px;
+}
+.proin ,.third-third{
+    font-size: 17px;
+    line-height:26px; 
+    color: grey;
+}
+.hrr{
+    margin-top: 150px;
+}
+.rights{
+    width: 85%;
+    margin: 50px auto  ;
+}
+.copy{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

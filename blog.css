@@ -1,0 +1,235 @@
+*{
+    margin:0%;  
+    font-family: 'Montserrat',sans-serif; 
+}
+::selection{
+    background-color: #c70000e0;
+    color: white;
+}
+header{
+    background-image: url("./image/blog.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height:700px;
+    color: white;
+}
+.container1{
+    background-color: #011627ad;
+    height:700px;
+}
+.section1{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+    padding-top: 20px;
+}
+
+.logo{
+    display: inline-block;
+}
+.nature{
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+nav{
+   
+    margin-left: 40%;
+    font-size: 13px;
+    display: inline-block;
+    
+}
+nav li{
+ list-style: none;
+ margin-left: 00px;
+ display: inline-block;
+
+}
+li a{
+    text-decoration: none;
+    padding: 0px 6px;
+    color: white;
+}
+nav button{
+    color: white;
+    background-color: #da1212c7;
+    border-radius: 65px;
+    padding: 5px 10px;
+    font-size: 15px;
+    margin-top: 10px;
+    border-color: #da1212c7;
+}
+.sierra{
+    text-align: center;
+    margin-top: 10px;
+}
+.welcome{
+    margin-top: 250px;
+}
+
+.welcome h1{
+    font-size: 65px;
+    padding: 0px 0px;
+    margin: 10px 0px;
+}
+.staying-touch{
+    margin: 90px 0px 70px 0px;
+    background-color: #8080802b;
+    padding:30px 0px 100px 0px;
+}
+.staying{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    justify-content: space-between;
+}
+.in-touch{
+width: 32%;
+background-color: aliceblue;
+padding-bottom: 20px;
+}
+.in-touch img{
+    width: 100%;
+}
+.in-touch h3{ 
+     font-size: 24px;
+     padding: 0px 50px;
+}
+.in-touch h6{
+    font-size: 10px;
+    color: gray;
+margin: 20px auto;
+padding: 0px 50px;
+}
+.in-touch p{
+    font-size: 17px;
+    color: gray;
+    line-height: 26px;
+    padding: 10px 50px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 90%;
+    margin:100px auto;
+}
+.winter{
+    background-image: url("./image/blog\ winter.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    width: 50%;   
+}
+.birding{
+    padding: 150px;
+}
+.birding h2{
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.birding p{
+    font-size: 17px;
+    line-height: 25px;
+    margin: 20px 0px;
+}
+.birding h6{
+    font-size: 12px;
+    line-height: 25px;
+}
+.birding button{
+     color: white;
+    background-color: red;
+    border-radius: 0px;
+    padding: 5px 10px;
+    font-size: 15px;
+    margin-top: 10px;
+    border:0px;
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 48%;
+    
+}
+.card{
+    width: 48%;
+}
+.card img{
+    width: 100%;
+}
+.overlay{
+    background-color: #01162794;
+    height: 100%;
+}
+.footer{
+    background-image: url("./image/foot.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height:590px;
+    color: white;
+}
+.container3{
+    background-color: #01162794;
+    height: 590px;
+}
+.last-about{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+.one-two{
+    list-style-type:none ;
+margin-left: 0px;
+padding-left: 0px;
+}
+#minus{
+    padding-right: 15px;
+}
+.abt{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.red{
+    font-size: 18px;
+    font-style: italic;
+    color: red;
+    line-height: 26px;
+}
+.white{
+    font-size: 15px;
+    line-height: 26px;
+    color: grey;
+}
+.one-two li{
+    margin-bottom: 15px;
+    
+
+}
+.one-two li a{
+    color: grey;
+    font-size: 17px;
+    padding: 0px;
+}
+.proin ,.third-third{
+    font-size: 17px;
+    line-height:26px; 
+    color: grey;
+}
+.hrr{
+    margin-top: 150px;
+}
+.rights{
+    width: 85%;
+    margin: 50px auto  ;
+}
+.copy{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
